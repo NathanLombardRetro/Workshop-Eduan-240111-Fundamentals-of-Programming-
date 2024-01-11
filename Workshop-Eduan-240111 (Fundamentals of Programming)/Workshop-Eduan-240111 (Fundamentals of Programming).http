@@ -1,0 +1,6 @@
+@Workshop_Eduan_240111__Fundamentals_of_Programming__HostAddress = http://localhost:5271
+
+GET {{Workshop_Eduan_240111__Fundamentals_of_Programming__HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
