@@ -15,7 +15,6 @@ namespace Services.Services
         {
             _imageAdapter = imageAdapter;
         }
-        
         public string GenerateDog()
         {
             return _imageAdapter.GenerateDog();

@@ -16,7 +16,6 @@ namespace Workshop_Eduan_240111__Fundamentals_of_Programming_.Controllers
         [HttpGet]
         public string GenerateDogImage()
         {
-            
             return _imageGenerateService.GenerateDog();
         }
     }
